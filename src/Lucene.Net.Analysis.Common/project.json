@@ -12,7 +12,7 @@
       "includeFiles": [
         "Analysis/Gl/galician.rslp",
         "Analysis/Pt/portuguese.rslp",
-        "Analysis/Compound/hyphenation/hyphenation.dtd"
+        "Analysis/Compound/Hyphenation/hyphenation.dtd"
       ]
     },
     "compile": {
