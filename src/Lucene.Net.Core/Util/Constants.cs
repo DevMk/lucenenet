@@ -205,7 +205,6 @@ namespace Lucene.Net.Util
 				
 #if NETSTANDARD
                 if (variable == "PROCESSOR_ARCHITECTURE") {
-
                     return RuntimeInformation.OSArchitecture.ToString();
                 }
 #endif
